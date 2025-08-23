@@ -1,4 +1,4 @@
-- • First name : Zoirjon
+• First name : Zoirjon
 • Last name  : Dostonov
 🧑🏻‍💻
 🌐Django / ⚙️Arduino / 📡Raspbery pi
