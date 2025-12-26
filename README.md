@@ -19,13 +19,6 @@
   <img src="https://skillicons.dev/icons?i=django,python,fastapi,linux,arduino,raspberrypi,docker,git,github,vscode,postgresql,mysql,redis,html,css,js,tailwind" />
 </p>
 
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dostonovv&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostonovv&layout=compact&theme=radical" height="165" />
-</p>
 
 ---
 
